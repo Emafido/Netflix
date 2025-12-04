@@ -1,6 +1,6 @@
 
 import './App.css'
-import Header from './assets/components/Header'
+import Header from './assets/components/header'
 import Hero from './assets/components/Hero'
 import TrendingNow from './assets/components/Movies'
 import Movies from './assets/components/Movies'
